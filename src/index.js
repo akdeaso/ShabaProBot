@@ -16,4 +16,4 @@ client.on("message", msg => {
     msg.reply("Pong!")
   }
 })
-client.login("NzEwOTc3MDU5Mzg3ODY3MjE4.Xr8Tdg.qOOYtXiQopJKBbQ-Uirr-5npcZs")
+client.login("NzEwOTc3MDU5Mzg3ODY3MjE4.Xr-HoA.emfjCKiRUD7h9Y_AS8AzCjGJ7Jk")
